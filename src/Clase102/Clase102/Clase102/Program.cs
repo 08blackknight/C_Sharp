@@ -10,6 +10,21 @@ namespace Clase102
     {
         static void Main(string[] args)
         {
+            string contenedor = "hydraidios";
+            string recibir;
+            Console.WriteLine("Escriba un nombre para determinar si un jugador es Fariseo");
+            recibir = Console.ReadLine();
+            if(contenedor==recibir)
+            {
+                Console.WriteLine("ES FARISEO");
+
+            }
+            else
+            {
+                Console.WriteLine("NO ES FARISEO");
+            }
+            Console.ReadKey();
         }
+
     }
 }
