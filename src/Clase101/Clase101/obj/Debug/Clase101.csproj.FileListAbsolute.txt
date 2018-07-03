@@ -1,0 +1,6 @@
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\bin\Debug\Clase101.exe.config
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\bin\Debug\Clase101.exe
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\bin\Debug\Clase101.pdb
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\obj\Debug\Clase101.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\obj\Debug\Clase101.exe
+C:\Users\Nicolás\Documents\GitHub\C_Sharp\src\Clase101\Clase101\obj\Debug\Clase101.pdb
