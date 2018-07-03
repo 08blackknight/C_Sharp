@@ -9,7 +9,7 @@ namespace Clase101
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             int numerouno;
             int numerodos;
             int suma;
