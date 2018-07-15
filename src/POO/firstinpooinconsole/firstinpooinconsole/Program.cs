@@ -16,6 +16,7 @@ namespace firstinpooinconsole
             person personal = new person();
             personal.name = "JOSE ANTONIO";
             personal.born = 1970;
+            
 
             Console.WriteLine("PASO UNO");
 
